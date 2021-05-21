@@ -26,16 +26,16 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=for-the-badge&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: lucasamsc](https://img.shields.io/badge/-lucasamsc-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasamsc/)](https://www.linkedin.com/in/lucasamsc/)
-[![Gmail Badge](https://img.shields.io/badge/-lucasam.sc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasam.sc@gmail.com)](mailto:lucasam.sc@gmail.com)
-[![GitHub lucasamsc]( https://img.shields.io/github/followers/lucasamsc?label=follow&style=social)](https://github.com/lucasamsc)
+[![Gmail Badge](https://img.shields.io/badge/-lucasam.sc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasam.sc@gmail.com)](mailto:lucasam.sc@gmail.com)
+[![GitHub lucasamsc]( https://img.shields.io/github/followers/lucasamsc?label=follow&style=for-the-badge)](https://github.com/lucasamsc)
 
