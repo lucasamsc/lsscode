@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando cada vez mais o vasto mundo do desenvolvimento web e afins.
 - 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://portal.ufpa.br/">**UFPA**</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Front-End (Estágio)** em <a href="https://www.sebrae.com.br/sites/PortalSebrae/ufs/pa?codUf=15">SEBRAE/PA</a>.
-- 🌱 &nbsp; Estudando mais sobre **Design UI & UI e Back-End e um pouco de DevOps**.
+- 🌱 &nbsp; Estudando mais sobre **Design UI & UI, Back-End e um pouco de DevOps**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
