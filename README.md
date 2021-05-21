@@ -26,8 +26,8 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=23A8F2)
+  ![Trello](https://img.shields.io/badge/-Trello-FEFDFF?style=for-the-badge&logo=trello&logoColor=095ED8)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=for-the-badge&logo=adobe-xd&logoColor=007ACC)
 
