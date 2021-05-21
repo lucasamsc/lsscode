@@ -21,7 +21,7 @@
 
 **DevOps**
 
-  [![Git](https://img.shields.io/badge/-Git-EBEAE2&style=for-the-badge&logo=git&logoColor=EB7655)](https://git-scm.com/)
+  [![Git](https://img.shields.io/badge/-Git-EBEAE2?style=for-the-badge&logo=git&logoColor=EB7655)](https://git-scm.com/)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
