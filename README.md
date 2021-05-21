@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando esse vasto mundo de desenvolvimento web e afins.
-- 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="https://portal.ufpa.br/">**UFPA**</a>.
+- 🤔 &nbsp; Explorando cada vez mais o vasto mundo do desenvolvimento web e afins.
+- 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://portal.ufpa.br/">**UFPA**</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Front-End (Estágio)** em <a href="https://www.sebrae.com.br/sites/PortalSebrae/ufs/pa?codUf=15">SEBRAE/PA</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Design UI & UI e Back-End e um pouco de DevOps**.
 
@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Utilidades**
 
@@ -22,14 +23,10 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
