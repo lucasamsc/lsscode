@@ -37,5 +37,5 @@
 
 [![Linkedin: lucasamsc](https://img.shields.io/badge/-lucasamsc-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasamsc/)](https://www.linkedin.com/in/lucasamsc/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasam.sc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasam.sc@gmail.com)](mailto:lucasam.sc@gmail.com)
-[![GitHub lucasamsc]( https://img.shields.io/github/followers/lucasamsc?label=follow&style=for-the-badge)](https://github.com/lucasamsc)
+[![GitHub lucasamsc]( https://img.shields.io/github/followers/lucasamsc?label=follow&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lucasamsc)
 
