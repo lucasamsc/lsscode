@@ -16,12 +16,12 @@
 
 **Aplicações & Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  [![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia)](https://insomnia.rest/)
+  [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-2E2C1E?style=for-the-badge&logo=git&logoColor=EB7655)
+  [![Git](https://img.shields.io/badge/-Git-EBEAE2&style=for-the-badge&logo=git&logoColor=EB7655)](https://git-scm.com/)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
