@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando cada vez mais o vasto mundo do desenvolvimento web e afins.
 - 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://portal.ufpa.br/">**UFPA**</a>.
-- 🌱 &nbsp; Estudando mais sobre **Design UI & UX, Back-End.
+- 🌱 &nbsp; Estudando mais sobre Design UI e UX e um pouco de Back-End
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
