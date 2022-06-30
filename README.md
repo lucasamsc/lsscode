@@ -17,6 +17,7 @@
 
   [![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia)](https://insomnia.rest/)
   [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+  [![Trello](https://img.shields.io/badge/-Trello-FEFDFF?style=for-the-badge&logo=trello&logoColor=095ED8)](https://trello.com/pt-BR)
 
 **DevOps**
 
@@ -26,7 +27,6 @@
 **Ferramentas de Desenvolvimento**
 
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=23A8F2)](https://code.visualstudio.com/)
-  [![Trello](https://img.shields.io/badge/-Trello-FEFDFF?style=for-the-badge&logo=trello&logoColor=095ED8)](https://trello.com/pt-BR)
   [![Figma](https://img.shields.io/badge/-Figma-C7B9FF?style=for-the-badge&logo=figma)](https://www.figma.com/)
 
 <br/>
