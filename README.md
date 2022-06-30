@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando cada vez mais o vasto mundo do desenvolvimento web e afins.
 - 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://portal.ufpa.br/">**UFPA**</a>.
-- 🌱 &nbsp; Estudando mais sobre **Design UI & UI, Back-End e um pouco de DevOps**.
+- 🌱 &nbsp; Estudando mais sobre **Design UI & UX, Back-End.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -28,7 +28,6 @@
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=23A8F2)](https://code.visualstudio.com/)
   [![Trello](https://img.shields.io/badge/-Trello-FEFDFF?style=for-the-badge&logo=trello&logoColor=095ED8)](https://trello.com/pt-BR)
   [![Figma](https://img.shields.io/badge/-Figma-C7B9FF?style=for-the-badge&logo=figma)](https://www.figma.com/)
-  [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)](https://adobe.com/br/products/xd.html)
 
 <br/>
 
