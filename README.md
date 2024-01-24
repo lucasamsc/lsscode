@@ -1,7 +1,7 @@
 ,<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Apaixonado por tecnologia 
-- 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://portal.ufpa.br/">**UFPA**</a>.
+- 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://ufpa.br/">**UFPA**</a>.
 - 🌱 &nbsp; Estudando desenvolvimento web, design UI/UX e pesquisador acadêmico nas áreas de Interação Humano-Computador e Acessibilidade.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
