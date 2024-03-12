@@ -1,4 +1,4 @@
-,<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Apaixonado por tecnologia 
 - 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://ufpa.br/">**UFPA**</a>.
