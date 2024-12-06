@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Apaixonado por tecnologia 
 - 🎓 &nbsp; Graduando em **Engenharia da Computação** na <a href="https://ufpa.br/">**UFPA**</a>.
-- 🌱 &nbsp; Estudando desenvolvimento web, design UI/UX e pesquisador acadêmico nas áreas de Interação Humano-Computador e Acessibilidade.
+- 🌱 &nbsp; Estudando desenvolvimento web, design UI/UX e pesquisador acadêmico nas áreas de Interação Humano-Computador, Acessibilidade e Design.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
